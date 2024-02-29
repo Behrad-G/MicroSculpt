@@ -1,4 +1,4 @@
-# PFM
+# PSFM
 **Pore-scale Freezing Model**
 
 This is a pore-scale freezing and thawing script that I developed in R environment; the result of the script was published in the following manuscript:
