@@ -1,10 +1,7 @@
-# PSFM
-**Pore-scale Freezing Model**
+# MicroSculpt
+**Pore-scale topology analysis model
 
-This is a pore-scale freezing and thawing script that I developed in R environment; the result of the script was published in the following manuscript:
-Water freezing characteristics in granular soils: Insights from pore-scale simulations, https://doi.org/10.1016/j.advwatres.2020.103681
+MicroSculpt pioneers advanced 3D topology analysis and forecasting at the micro-scale, harnessing the power of the marching cube algorithm. By leveraging physics laws, this innovative solution accurately predicts freezing and thawing processes, offering invaluable insights for material science, environmental monitoring, and beyond (https://doi.org/10.1016/j.advwatres.2020.103681)
 
-Please feel free to use the script with proper citations. 
-
-A 3D visualozation of the ice nucleation and growth is presented here:
+A 3D visualozation of its application in environmental problems and forecasting ice nucleation and growth is presented here:
 https://www.youtube.com/watch?v=3_ajpMfIT9Q
